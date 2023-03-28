@@ -1,9 +1,3 @@
-
-Name: Gaurav chhetri , Enrollment no: IFE202022004
-Movie dialogue : "Frankly my dear , i dont give a damn anymore" : Gone with the wind (1939)
-
-
-
 Name, Enrolment No
 Movie dialogue
 
@@ -41,4 +35,8 @@ Animesh Singh,IEC2022062
 "I'm gonna make him an offer he can't refuse."
 
 
+Divyansh Omar, IIT2022501
+All izzzz well
 
+Name: Gaurav chhetri , Enrollment no: IFE202022004
+Movie dialogue : "Frankly my dear , i dont give a damn anymore" : Gone with the wind (1939)
