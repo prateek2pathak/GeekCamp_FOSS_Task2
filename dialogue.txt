@@ -1,6 +1,11 @@
 Name, Enrolment No
 Movie dialogue
 
+Prakruti Shetti IEC2022128
+"yaad rakhna beta, silver jeeti to aaj nahi to kal log tanne bhul jayenge
+ gold jeeti to misal ban jayegi aur misaale di jaati hai 
+ bhuli nahi jaati"
+
 Tejas Sharma, IIT2022161
 Kitne aadmi the?
 
@@ -43,4 +48,5 @@ Movie Dialogue: Kaamyaab hone ke liye nahin, Kaabil hone ke liye padho!
 
 Name: Deepanshu Singh
 Movie Dialogue: "Why so serious?" (Joker)
+
 
