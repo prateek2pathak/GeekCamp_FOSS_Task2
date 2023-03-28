@@ -39,3 +39,7 @@ Movie dialogue : "Frankly my dear , i dont give a damn anymore" : Gone with the 
 
 Name: Kushal Bansal, Enrollment no: IIT2022021
 Movie dialogue: Tu samjha? Nahi tu nhi samjha
+
+Name: Deepanshu Singh
+Movie Dialogue: "Why so serious?" (Joker)
+
