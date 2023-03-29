@@ -1,17 +1,23 @@
-Name, Enrolment No
-Movie dialogue
-
 Shubham Gupta, IFI2022019
 Baap ka, dada ka, Bhai ka, Sabka badla lega re tera, Faijal...
 
 Deepanshu Kumar IEC2022073
 "Life was like a box of chocolates. You never know what you're gonna get." -Forrest Gump
 
+
+
 Kashish Vijayvargiya IEC2022028
 "Always" by Snape
 
+
 ankita singh  ,iec2022112
 paisa hi paisa hoga
+
+
+Name, Enrolment No
+Movie dialogue
+
+
 
 Atharva Chavan , IIT2022221
 “Utha le re baba.”
@@ -86,6 +92,8 @@ Movie Dialogue: Kaamyaab hone ke liye nahin, Kaabil hone ke liye padho!
 Name: Deepanshu Singh
 Movie Dialogue: "Why so serious?" (Joker)
 
+Name : Jai Khanna , Enrollment Number : IIT2022005
+Movie Dialogue: "You talking to me?" : Taxi Driver (1976)
 
 Ashutosh Kumar Sahu, IIT2022238
 ek chutki sindoor ki kimat tum kya jano ramesh babu
@@ -99,4 +107,3 @@ Movie dialogue: Tu samjha? Nahi tu nhi samjha
 
 Name : Piyush Tiwari , Enrolment no: IIT2022020
 movie dialogue:  Hum tum mein itne ched karenge ... ki confuse ho jaoge ki saans kahan se le ... aur paadein kahan se
-
