@@ -6,6 +6,7 @@ Kashish Vijayvargiya IEC2022028
 ankita singh  ,iec2022112
 paisa hi paisa hoga
 
+
 Name, Enrolment No
 Movie dialogue
 
@@ -60,6 +61,10 @@ Movie dialogue : "Frankly my dear , i dont give a damn anymore" : Gone with the 
 
 Name: Kushal Bansal, Enrollment no: IIT2022021
 Movie dialogue: Tu samjha? Nahi tu nhi samjha
+
+Himanshu Raj , IIT2022237
+Information is wealth.
+
 
 Name : Rohit Pandey , Enrollment: IIT2022019
 Movie Dialogue: Kaamyaab hone ke liye nahin, Kaabil hone ke liye padho!
