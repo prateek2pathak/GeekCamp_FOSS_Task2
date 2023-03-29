@@ -26,6 +26,7 @@ Movie dialogue
 Name - Varun Naik, IIT2022220
 "Elementary, my dear Watson."
 
+
 Atharva Chavan , IIT2022221
 “Utha le re baba.”
 
@@ -128,6 +129,12 @@ Hrishika Singh, IIT2022127
 
 Saiushasree IEC2022082
 "Mokke kadha ani peekesthe peeka kostha!"
+
+Shalini Chongdar, IEC2022037
+"I don't want to go"(Infinity War)
+
+Archana Patel IEC2022051
+"Go with the flow"
 
 Devam Desai IIT2022035
 "I am not in danger Skyler. I am the DANGER."
