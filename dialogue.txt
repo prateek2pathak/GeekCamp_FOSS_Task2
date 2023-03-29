@@ -89,6 +89,8 @@ Movie Dialogue: Kaamyaab hone ke liye nahin, Kaabil hone ke liye padho!
 Name: Deepanshu Singh
 Movie Dialogue: "Why so serious?" (Joker)
 
+Name : Jai Khanna , Enrollment Number : IIT2022005
+Movie Dialogue: "You talking to me?" : Taxi Driver (1976)
 
 Ashutosh Kumar Sahu, IIT2022238
 ek chutki sindoor ki kimat tum kya jano ramesh babu
