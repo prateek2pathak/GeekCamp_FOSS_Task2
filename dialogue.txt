@@ -34,6 +34,9 @@ paisa hi paisa hoga
 Name, Enrolment No
 Movie dialogue
 
+Name- Naman Singhal, IEC2022020
+"Kya gunda banega re tu"
+
 
 Name - Varun Naik, IIT2022220
 "Elementary, my dear Watson."
